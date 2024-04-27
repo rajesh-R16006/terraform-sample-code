@@ -8,7 +8,7 @@ variable "hw" {
 }
 
 variable "name" {
-  default = "rajesh-server"
+  default = "rajesh-server1"
 }
 
 variable "env" {
